@@ -22,8 +22,6 @@ public class covertcase {
         System.out.print("Enter the string: ");
         String S = s.nextLine();
         convertcase(S);
-
-
         s.close();
     }
 }
